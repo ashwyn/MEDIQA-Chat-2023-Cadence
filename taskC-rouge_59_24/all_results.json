@@ -1,0 +1,21 @@
+{
+    "epoch": 9.98,
+    "eval_bertscore_f1": 0.8125690251588822,
+    "eval_doctor_turn_count_delta": -18.7,
+    "eval_gen_len": 943.6,
+    "eval_loss": 2.059783935546875,
+    "eval_patient_turn_count_delta": -16.25,
+    "eval_rouge1": 59.1194,
+    "eval_rouge2": 23.6925,
+    "eval_rougeL": 21.4423,
+    "eval_rougeLsum": 55.7114,
+    "eval_runtime": 97.9947,
+    "eval_samples": 20,
+    "eval_samples_per_second": 0.204,
+    "eval_steps_per_second": 0.031,
+    "train_loss": 1.6532870205965908,
+    "train_runtime": 2184.8626,
+    "train_samples": 1435,
+    "train_samples_per_second": 6.568,
+    "train_steps_per_second": 0.05
+}
